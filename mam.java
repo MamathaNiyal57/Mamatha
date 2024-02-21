@@ -8,4 +8,10 @@ public class mam
         int b=sc.nextInt();
         int height = sc.nextInt();
     }
+
+    public static int divison(int sum)
+    {
+        int value = sum/2;
+        return value;
+    }
 }
