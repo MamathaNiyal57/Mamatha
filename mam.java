@@ -14,4 +14,10 @@ public class mam
         int value = sum/2;
         return value;
     }
+
+    public static int multiply(int value,int height)
+    {
+        int ans = value * height;
+        return ans;
+    }
 }
